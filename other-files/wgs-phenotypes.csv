@@ -1,0 +1,71 @@
+Sample,CYP2B6,CYP2C9,CYP2C19,CYP2D6,CYP3A5,DPYD,SLCO1B1,TPMT,UGT1A1
+NA10831,Normal Metabolizer,Intermediate Metabolizer,Rapid Metabolizer,Poor Metabolizer,Poor Metabolizer,Normal Metabolizer,Possible Increased Function,Normal Metabolizer,Poor Metabolizer
+NA18855,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Intermediate Metabolizer,Poor Metabolizer
+NA18617,Rapid Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19908,Intermediate Metabolizer,Intermediate Metabolizer,Rapid Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA18973,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA12003,Poor Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA18519,Intermediate Metabolizer,Intermediate Metabolizer,Rapid Metabolizer,Indeterminate,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+HG00276,Rapid Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Indeterminate,Intermediate Metabolizer
+NA11993,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA19917,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19920,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Intermediate Metabolizer,Intermediate Metabolizer
+NA11832,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA07029,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA18868,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Poor Metabolizer
+NA12813,Normal Metabolizer,Intermediate Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Poor Metabolizer
+HG00589,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Indeterminate,Intermediate Metabolizer,Normal Metabolizer
+NA20296,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Intermediate Metabolizer,Normal Metabolizer
+NA12717,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA07056,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Possible Increased Function,Normal Metabolizer,Intermediate Metabolizer
+NA18484,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA19178,Poor Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA18564,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA12145,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA18861,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Normal Metabolizer
+HG00436,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Indeterminate,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA18552,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA07000,Normal Metabolizer,Normal Metabolizer,Rapid Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA12006,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA19007,Indeterminate,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19239,Intermediate Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Poor Metabolizer
+NA12156,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA19147,Intermediate Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Poor Metabolizer
+NA19095,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA10854,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA18980,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Poor Metabolizer
+NA19207,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Intermediate Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA18526,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA18959,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA06991,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Intermediate Metabolizer,Poor Function,Normal Metabolizer,Normal Metabolizer
+NA19109,Intermediate Metabolizer,Normal Metabolizer,Ultrarapid Metabolizer,Ultrarapid Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA18952,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA19789,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+HG01190,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19122,Poor Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19819,Normal Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19213,Poor Metabolizer,Intermediate Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Possible Increased Function,Normal Metabolizer,Normal Metabolizer
+NA07055,Intermediate Metabolizer,Normal Metabolizer,Rapid Metabolizer,Poor Metabolizer,Poor Metabolizer,Intermediate Metabolizer,Possible Increased Function,Normal Metabolizer,Normal Metabolizer
+NA19174,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Intermediate Metabolizer
+NA20509,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA18992,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA18565,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA18524,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Indeterminate,Normal Metabolizer,Normal Metabolizer
+NA18942,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA11839,Indeterminate,Poor Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA10851,Normal Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Possible Increased Function,Normal Metabolizer,Normal Metabolizer
+NA19176,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Indeterminate,Intermediate Metabolizer
+NA18509,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA19226,Poor Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Ultrarapid Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Possible Decreased Function,Normal Metabolizer,Normal Metabolizer
+NA07357,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA07019,Rapid Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Possible Increased Function,Normal Metabolizer,Normal Metabolizer
+NA12873,Intermediate Metabolizer,Normal Metabolizer,Rapid Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA19143,Poor Metabolizer,Intermediate Metabolizer,Indeterminate,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Intermediate Metabolizer
+NA10847,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Poor Function,Normal Metabolizer,Intermediate Metabolizer
+NA18518,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA21781,Rapid Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Poor Function,Normal Metabolizer,Intermediate Metabolizer
+NA07348,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA19003,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Poor Metabolizer,Normal Metabolizer,Normal Function,Normal Metabolizer,Normal Metabolizer
+NA18544,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA18540,Intermediate Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Decreased Function,Normal Metabolizer,Intermediate Metabolizer
+NA18966,Intermediate Metabolizer,Normal Metabolizer,Normal Metabolizer,Normal Metabolizer,Intermediate Metabolizer,Normal Metabolizer,Normal Function,Intermediate Metabolizer,Intermediate Metabolizer
