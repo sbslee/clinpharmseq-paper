@@ -72,21 +72,67 @@ done
 # Figure4_SVExamples
 
 ```
-$ pypgx plot-cn-af wgs-CYP2D6/copy-number.zip wgs-CYP2D6/imported-variants.zip --samples 7d077b89f2514fb0b8e002f8d9a10189
-$ pypgx plot-cn-af ts2-CYP2D6/copy-number.zip ts2-CYP2D6/imported-variants.zip --samples TS2_NA18526
-$ pypgx plot-cn-af wgs-CYP2A6/copy-number.zip wgs-CYP2A6/imported-variants.zip --samples 543558ae08cd44b3850fc7b835484037
-$ pypgx plot-cn-af ts1-CYP2A6/copy-number.zip ts1-CYP2A6/imported-variants.zip --samples TS1_NA18861
-$ pypgx plot-cn-af wgs-CYP2B6/copy-number.zip wgs-CYP2B6/imported-variants.zip --samples 3fcca708192c4ffe8e57318c7d64e480
-$ pypgx plot-cn-af ts1-CYP2B6/copy-number.zip ts1-CYP2B6/imported-variants.zip --samples TS1_NA19178
+$ pypgx plot-cn-af \
+wgs-CYP2D6/copy-number.zip \
+wgs-CYP2D6/imported-variants.zip \
+--samples 7d077b89f2514fb0b8e002f8d9a10189
+
+$ pypgx plot-cn-af \
+ts2-CYP2D6/copy-number.zip \
+ts2-CYP2D6/imported-variants.zip \
+--samples TS2_NA18526
+
+$ pypgx plot-cn-af \
+wgs-CYP2A6/copy-number.zip \
+wgs-CYP2A6/imported-variants.zip \
+--samples 543558ae08cd44b3850fc7b835484037
+
+$ pypgx plot-cn-af \
+ts1-CYP2A6/copy-number.zip \
+ts1-CYP2A6/imported-variants.zip \
+--samples TS1_NA18861
+
+$ pypgx plot-cn-af \
+wgs-CYP2B6/copy-number.zip \
+wgs-CYP2B6/imported-variants.zip \
+--samples 3fcca708192c4ffe8e57318c7d64e480
+
+$ pypgx plot-cn-af \
+ts1-CYP2B6/copy-number.zip \
+ts1-CYP2B6/imported-variants.zip \
+--samples TS1_NA19178
 ```
 
 # Figure5_SVUpdates
 
 ```
-$ pypgx plot-cn-af wgs-CYP2A6/copy-number.zip wgs-CYP2A6/imported-variants.zip --samples 54db734bc1ec46b29fc6c5c6df35ca65
-$ pypgx plot-cn-af ts1-CYP2A6/copy-number.zip ts1-CYP2A6/imported-variants.zip --samples TS1_HG00436
-$ pypgx plot-cn-af wgs-CYP2D6/copy-number.zip wgs-CYP2D6/imported-variants.zip --samples f00e1071f840476c9872de73f0ea8a02
-$ pypgx plot-cn-af ts2-CYP2D6/copy-number.zip ts2-CYP2D6/imported-variants.zip --samples TS2_NA18540
-$ pypgx plot-cn-af wgs-CYP2E1/copy-number.zip wgs-CYP2E1/imported-variants.zip --samples 0d73bafef55a4a718489f3fdca91fd55
-$ pypgx plot-cn-af ts1-CYP2E1/copy-number.zip ts1-CYP2E1/imported-variants.zip --samples TS1_NA19908
+$ pypgx plot-cn-af \
+wgs-CYP2A6/copy-number.zip \
+wgs-CYP2A6/imported-variants.zip \
+--samples 54db734bc1ec46b29fc6c5c6df35ca65
+
+$ pypgx plot-cn-af \
+ts1-CYP2A6/copy-number.zip \
+ts1-CYP2A6/imported-variants.zip \
+--samples TS1_HG00436
+
+$ pypgx plot-cn-af \
+wgs-CYP2D6/copy-number.zip \
+wgs-CYP2D6/imported-variants.zip \
+--samples f00e1071f840476c9872de73f0ea8a02
+
+$ pypgx plot-cn-af \
+ts2-CYP2D6/copy-number.zip \
+ts2-CYP2D6/imported-variants.zip \
+--samples TS2_NA18540
+
+$ pypgx plot-cn-af \
+wgs-CYP2E1/copy-number.zip \
+wgs-CYP2E1/imported-variants.zip \
+--samples 0d73bafef55a4a718489f3fdca91fd55
+
+$ pypgx plot-cn-af \
+ts1-CYP2E1/copy-number.zip \
+ts1-CYP2E1/imported-variants.zip \
+--samples TS1_NA19908
 ```
