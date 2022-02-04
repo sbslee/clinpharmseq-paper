@@ -43,7 +43,8 @@ do
   wgs-$gene \
   --variants pypgx-input-files/wgs.merged.joint.filtered.vcf.gz \
   --depth-of-coverage pypgx-input-files/wgs-depth-of-coverage.zip \
-  --control-statistics pypgx-input-files/wgs-control-statistics-VDR.zip
+  --control-statistics pypgx-input-files/wgs-control-statistics-VDR.zip \
+  --platform WGS
 done
 
 # Run PyPGx for ClinPharmSeq Set 1 data
@@ -54,7 +55,8 @@ do
   ts1-$gene \
   --variants pypgx-input-files/ts1.merged.joint.filtered.vcf.gz \
   --depth-of-coverage pypgx-input-files/ts1-depth-of-coverage.zip \
-  --control-statistics pypgx-input-files/ts1-control-statistics-VDR.zip
+  --control-statistics pypgx-input-files/ts1-control-statistics-VDR.zip \
+  --platform Targeted
 done
 
 # Run PyPGx for ClinPharmSeq Set 2 data
@@ -65,7 +67,8 @@ do
   ts2-$gene \
   --variants pypgx-input-files/ts2.merged.joint.filtered.vcf.gz \
   --depth-of-coverage pypgx-input-files/ts2-depth-of-coverage.zip \
-  --control-statistics pypgx-input-files/ts2-control-statistics-VDR.zip
+  --control-statistics pypgx-input-files/ts2-control-statistics-VDR.zip \
+  --platform Targeted
 done
 ```
 
