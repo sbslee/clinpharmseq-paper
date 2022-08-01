@@ -1,6 +1,8 @@
-# clinpharmseq-paper
+# README
 
-Data and code repository for the ClinPharmSeq paper
+Data and code repository for the ClinPharmSeq paper.
+
+Lee et al., 2022. [ClinPharmSeq: A targeted sequencing panel for clinical pharmacogenetics implementation](https://doi.org/10.1371/journal.pone.0272129). PLOS ONE.
 
 # Star allele calling with PyPGx
 
